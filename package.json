@@ -1,14 +1,11 @@
 {
   "name": "vue3-devtools",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "vue devtools for electron(6.5.1)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "release": "release-it"
-  },
-  "publishConfig": {
-    "registry": "https://registry.npmjs.org"
   },
   "repository": {
     "type": "git",
