@@ -1,0 +1,23 @@
+{
+  "name": "vue3-devtools",
+  "version": "1.0.0",
+  "description": "vue devtools for electron(6.5.1)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release": "release-it"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lijinrong/vue3-devtools.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lijinrong/vue3-devtools/issues"
+  },
+  "homepage": "https://github.com/lijinrong/vue3-devtools#readme",
+  "devDependencies": {
+    "release-it": "^15.11.0"
+  }
+}
